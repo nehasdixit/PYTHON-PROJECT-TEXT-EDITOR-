@@ -42,7 +42,7 @@ Multiple notebook tabs
 
 LICENSE:
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See https://github.com/nehanpnair/text-editor/blob/main/LICENSE for more information.
 
 
 
